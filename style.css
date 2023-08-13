@@ -236,7 +236,7 @@ display: inline;
 .welcomefon{
     max-width: 1440px;
     min-height: 600px;
-    background-image: linear-gradient(180deg, #0C0C0E 0%, #0C0C0E 0.01%, rgba(18, 18, 21, 0.10) 100%), url("/64d1c33d434658cfc7c521ddf1c6ce96.jpg");
+    background-image: linear-gradient(180deg, #0C0C0E 0%, #0C0C0E 0.01%, rgba(18, 18, 21, 0.10) 100%), url("/assets/welcome.jpg");
     background-size: cover;
     background-position: center;
 }
