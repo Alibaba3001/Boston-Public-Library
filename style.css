@@ -446,7 +446,7 @@ margin: 40px 1190px 20px 0px;
 .favorites-card {
     height: 555px;
     width: 590px;
-    margin: 20px 0;
+    margin: 10px 0;
     position: relative;
 }
 
@@ -478,7 +478,7 @@ font-family: Inter;
 font-size: 15px;
 font-style: normal;
 font-weight: 700;
-line-height: 40px; /* 266.667% */
+line-height: 40px;
 letter-spacing: 2px;
 text-transform: uppercase;
 }
@@ -495,7 +495,7 @@ text-transform: capitalize;
 .book-info {
     width: 360px;
     height: 320px;
-    margin: 30px 0 15px;
+    margin: 0px 0 0px;
     font-size: 15px;
     font-weight: 400;
     line-height: 40px;
@@ -505,7 +505,7 @@ text-transform: capitalize;
 
 .favorites-card-content hr {
     width: 60px;
-    margin: 8px 0 32px;
+    margin: 8px 0 22px;
     background-color: brown;
 }
 
