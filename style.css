@@ -202,12 +202,6 @@ background: #0C0C0E;
 .icons{
 padding: 31px 31px 31px 40px;
 }
-/*.welcome__head{
-width: 1440px;
-height: 90px;
-flex-shrink: 0;
-background: #0C0C0E;*/
-
 .welcome__title{
     color: aliceblue;
     font-family: Forum;
@@ -913,9 +907,7 @@ padding-top: 20px;
     line-height: 40px;
     letter-spacing: 2px;
     text-transform: capitalize;
-    text-decoration: ;
-    
-}
+    }
 .mailsenior a{
     color: #000;
 font-family: Inter;
@@ -928,7 +920,7 @@ text-transform: capitalize;
 }
 
 
-/*----------------------------------------------------------------*/
+
 .Digital-Library-Cards{
     width: 1440px;
      height: 684px;
