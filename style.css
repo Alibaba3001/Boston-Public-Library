@@ -202,12 +202,6 @@ background: #0C0C0E;
 .icons{
 padding: 31px 31px 31px 40px;
 }
-/*.welcome__head{
-width: 1440px;
-height: 90px;
-flex-shrink: 0;
-background: #0C0C0E;*/
-
 .welcome__title{
     color: aliceblue;
     font-family: Forum;
@@ -452,7 +446,7 @@ margin: 40px 1190px 20px 0px;
 .favorites-card {
     height: 555px;
     width: 590px;
-    margin: 20px 0;
+    margin: 10px 0;
     position: relative;
 }
 
@@ -479,12 +473,29 @@ margin: 40px 1190px 20px 0px;
 .book-name {
     text-transform: uppercase;
     letter-spacing: 1.8px;
+    color: #000;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 2px;
+text-transform: uppercase;
 }
-
+.book-author{
+    color: #000;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 2px;
+text-transform: capitalize;
+}
 .book-info {
     width: 360px;
     height: 320px;
-    margin: 30px 0 15px;
+    margin: 0px 0 0px;
     font-size: 15px;
     font-weight: 400;
     line-height: 40px;
@@ -494,7 +505,7 @@ margin: 40px 1190px 20px 0px;
 
 .favorites-card-content hr {
     width: 60px;
-    margin: 8px 0 32px;
+    margin: 8px 0 22px;
     background-color: brown;
 }
 
@@ -913,9 +924,7 @@ padding-top: 20px;
     line-height: 40px;
     letter-spacing: 2px;
     text-transform: capitalize;
-    text-decoration: ;
-    
-}
+    }
 .mailsenior a{
     color: #000;
 font-family: Inter;
@@ -928,7 +937,7 @@ text-transform: capitalize;
 }
 
 
-/*----------------------------------------------------------------*/
+
 .Digital-Library-Cards{
     width: 1440px;
      height: 684px;
