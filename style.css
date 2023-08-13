@@ -474,7 +474,16 @@ margin: 40px 1190px 20px 0px;
     text-transform: uppercase;
     letter-spacing: 1.8px;
 }
-
+.book-author{
+    color: #000;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 2px;
+text-transform: capitalize;
+}
 .book-info {
     width: 360px;
     height: 320px;
